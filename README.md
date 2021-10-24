@@ -1,2 +1,2 @@
 # TecBlog
-Site feito para treinar HTML e CSS.
+Created for training purposes.
